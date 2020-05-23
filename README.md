@@ -10,3 +10,6 @@ Zur findet ihr hier:
     Die serializierten Versionen der Dataframes. Es gibt je ein Dataframe für die gejointeb Tabellen Arbeitsmarkt<->Wahlverhalten für 2011 und 2012
 - /report_2011.html & report_2012.html
     Pandas Profiling Report der beiden Dataframes. Ist ganz interessant. Schaut euch mal die Korrelationsmatrizen an.
+
+- /regression/*
+    Ein Notebook für Regression mit einigen Beispielen. Noch under construction.
